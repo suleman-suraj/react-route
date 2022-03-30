@@ -5,7 +5,7 @@ import withLayout from './withLayout'
 function Home() {
   return (
     <div>
-        <h1>Welcome to my Homepage</h1>
+        <h1>Welcome to my HomePage</h1>
     <div>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, dolor accusantium. A corrupti ducimus ad tempora perferendis voluptatum distinctio consectetur aliquam beatae culpa aspernatur, necessitatibus itaque voluptatem natus, eos asperiores cupiditate ab illum! Eligendi, aut quam? Sunt, necessitatibus. Nulla tempora dignissimos deserunt sequi quia tempore eaque optio ex, nesciunt modi, accusantium molestiae reiciendis error voluptatem? Molestiae, aperiam. Aliquid dolorum fuga commodi alias ipsam, vel porro? Est officia unde labore ipsam nisi culpa recusandae laudantium architecto illo et voluptates deserunt, iste atque vitae neque quis nihil quasi eos, numquam optio necessitatibus, eligendi saepe alias. Ad nostrum pariatur alias nulla, unde dolorem?</p>
 
