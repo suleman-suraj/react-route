@@ -3,17 +3,47 @@ import withLayout from './withLayout'
 
 function About() {
   return (
+ <div>
+   <h1>About Me</h1> 
     <div>
-    <h1>About Me</h1>
-<div>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, dolor accusantium. A corrupti ducimus ad tempora perferendis voluptatum distinctio consectetur aliquam beatae culpa aspernatur, necessitatibus itaque voluptatem natus, eos asperiores cupiditate ab illum! Eligendi, aut quam? Sunt, necessitatibus. Nulla tempora dignissimos deserunt sequi quia tempore eaque optio ex, nesciunt modi, accusantium molestiae reiciendis error voluptatem? Molestiae, aperiam. Aliquid dolorum fuga commodi alias ipsam, vel porro? Est officia unde labore ipsam nisi culpa recusandae laudantium architecto illo et voluptates deserunt, iste atque vitae neque quis nihil quasi eos, numquam optio necessitatibus, eligendi saepe alias. Ad nostrum pariatur alias nulla, unde dolorem?</p>
+    <p> in the reign of his great-grandmother Queen Victoria, 
+    he was named Albert at birth after his great-grandfather Albert,
+     Prince Consort, and was known as "Bertie" to his family and close friends. 
+     His father ascended the throne as King George V in 1910. As the second son of 
+     the king, Albert was not expected to inherit the throne. He spent his early life 
+     in the shadow of his elder brother, Prince Edward, the heir apparent. 
+     Albert attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he learned to manage to some degree. His elder brother ascended the throne as Edward VIII after their father died in 1936, but Edward abdicated later that year to marry the twice-divorced American socialite Wallis Simpson; Albert thereby became the third monarch of the House of Windsor, 
+    taking the regnal name George VI.</p>
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam sapiente consectetur a ratione doloremque veritatis est, voluptate deserunt minima dolorum facere eveniet, laborum beatae officiis magnam asperiores illo. Similique officia maxime odio quia velit error ratione sint voluptates veritatis quaerat iure placeat optio doloremque, iusto omnis nam! Harum ab iure laboriosam in ipsum laborum nemo veritatis dolorum laudantium. Similique repudiandae dolor, quia possimus molestiae, quidem harum ullam deserunt, dolore sapiente dolores blanditiis dignissimos ut corporis tempore nisi. Hic in obcaecati quas dignissimos cum explicabo sunt eveniet ipsa, tempore fugiat? Asperiores voluptatum non quae error maxime reprehenderit pariatur expedita quis adipisci!</p>
+    <p> in the reign of his great-grandmother Queen Victoria, 
+    he was named Albert at birth after his great-grandfather Albert,
+     Prince Consort, and was known as "Bertie" to his family and close friends. 
+     His father ascended the throne as King George V in 1910. As the second son of 
+     the king, Albert was not expected to inherit the throne. He spent his early life 
+     in the shadow of his elder brother, Prince Edward, the heir apparent. 
+     Albert attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he learned to manage to some degree. His elder brother ascended the throne as Edward VIII after their father died in 1936, but Edward abdicated later that year to marry the twice-divorced American socialite Wallis Simpson; Albert thereby became the third monarch of the House of Windsor, 
+    taking the regnal name George VI.</p>
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam sapiente consectetur a ratione doloremque veritatis est, voluptate deserunt minima dolorum facere eveniet, laborum beatae officiis magnam asperiores illo. Similique officia maxime odio quia velit error ratione sint voluptates veritatis quaerat iure placeat optio doloremque, iusto omnis nam! Harum ab iure laboriosam in ipsum laborum nemo veritatis dolorum laudantium. Similique repudiandae dolor, quia possimus molestiae, quidem harum ullam deserunt, dolore sapiente dolores blanditiis dignissimos ut corporis tempore nisi. Hic in obcaecati quas dignissimos cum explicabo sunt eveniet ipsa, tempore fugiat? Asperiores voluptatum non quae error maxime reprehenderit pariatur expedita quis adipisci!</p>
-</div>
+    <p> in the reign of his great-grandmother Queen Victoria, 
+    he was named Albert at birth after his great-grandfather Albert,
+     Prince Consort, and was known as "Bertie" to his family and close friends. 
+     His father ascended the throne as King George V in 1910. As the second son of 
+     the king, Albert was not expected to inherit the throne. He spent his early life 
+     in the shadow of his elder brother, Prince Edward, the heir apparent. 
+     Albert attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he learned to manage to some degree. His elder brother ascended the throne as Edward VIII after their father died in 1936, but Edward abdicated later that year to marry the twice-divorced American socialite Wallis Simpson; Albert thereby became the third monarch of the House of Windsor, 
+    taking the regnal name George VI.</p>
+    
+    
+    
+    
+    
+    
+    </div>
+    
+    
+    
 </div>
   )
 }
 
-export default withLayout (About)
+export default withLayout(About)
