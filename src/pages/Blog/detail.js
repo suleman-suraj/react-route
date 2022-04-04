@@ -21,22 +21,9 @@ return(
 <img src={`/images/${post.image}`} alt="" height={350} width="100%"/>
 <p>{post.body}</p>
 </div>
-
-) 
-
-
-
-}
-
+)}
 </div>
-
-
-
-
-)
-
-
-}
+)}
 export default BlogDetail
 
 
